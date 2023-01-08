@@ -15,7 +15,7 @@ int main(){
     cin>>r;
     cout<<"Enter range of your table"<<endl;
     cin>>r2;
-    //Using  loop
+    //Using for loop
   	for(i = fr; i <= r; i++){            /*outer loop*/
 
   		cout << "Table of " << i << endl;
