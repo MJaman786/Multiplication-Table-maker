@@ -29,6 +29,6 @@ int main(){
 	//only for cmd perpose not recommended
 	cout<<"Program is done"<<endl;
 	cin>>q;//only for cmd perpose not recommended
-
+		//no need of q 
 	return 0;
 }
